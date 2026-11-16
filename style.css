@@ -9,11 +9,14 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #292929;
     background: #faf9fb;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 img {
     display: block;
     max-width: 100%;
+    zoom: 1;
 }
 
 section {
